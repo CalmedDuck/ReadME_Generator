@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Develop",
+			"path": ".."
+		},
+		{
+			"name": "ReadME_Generator",
+			"path": "../../ReadME_Generator"
+		}
+	],
+	"settings": {}
+}
